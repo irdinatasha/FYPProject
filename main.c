@@ -30,7 +30,7 @@ void removeCar() {
         carCount--;
         printf("Car removed from the queue.\n");
     } else {
-        printf("Queue is empty. No cars to remove.\n");
+        printf("Queue is empty. No cars to removee.\n");
     }
 }
 
